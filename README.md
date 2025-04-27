@@ -2,7 +2,7 @@
 
 A modern music player with a classic Winamp-inspired interface, built with Python, PyQt6, and pygame.
 
-screenshots/winamp1.png
+winamp-2.0/screenshots/winamp1.png
 
 ## Features
 
